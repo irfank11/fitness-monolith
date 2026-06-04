@@ -23,8 +23,7 @@ https://fitness-monolith-5cme.onrender.com/swagger-ui/index.html
 > <img width="1276" height="756" alt="Screen Shot 2026-06-04 at 3 34 18 PM" src="https://github.com/user-attachments/assets/327b364d-76b1-4943-85b2-e31e796cf659" />
 
 
-```md
-![Swagger UI](images/swagger-ui.png)
+```
 ```
 
 ---
